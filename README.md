@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # large_project
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# shivora-ai
+My first AI-powered Flutter app featuring AI Chat, PDF Summarization, OCR, Voice Tools, Translation, and Productivity Features. Building in public and learning AI development step by step.
+>>>>>>> 1733816c892ec54a78c62fc0a60497939b113b5f
